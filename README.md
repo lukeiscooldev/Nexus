@@ -1,22 +1,20 @@
 <div align="center">
-    <img width="256" src="https://raw.githubusercontent.com/ZalithLauncher/ZalithLauncher/9d978b702002f6eb932f32ce74b861ba63a9ee2e/ZalithLauncher/src/main/res/drawable/minecraft_title%20(6).png"></img>
+    <img width="800" src="https://raw.githubusercontent.com/ZalithLauncher/ZalithLauncher/9d978b702002f6eb932f32ce74b861ba63a9ee2e/ZalithLauncher/src/main/res/drawable/minecraft_title%20(6).png"></img>
 </div>
 
 <div align="center">
 
 [![Android CI](https://github.com/ZalithLauncher/ZalithLauncher/actions/workflows/android.yml/badge.svg)](https://github.com/ZalithLauncher/ZalithLauncher/actions/workflows/android.yml)
 ![Downloads](https://img.shields.io/github/downloads/ZalithLauncher/ZalithLauncher/total)
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors)](https://afdian.com/a/MovTery)
+[![.](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors)](https://afdian.com/a/MovTery)
 
 </div>
 
-- <a href="/README_ZH_CN.md">简体中文</a>丨<a href="/README-ZH_TW.md">繁體中文</a>
-- Zalith Launcher is a Minecraft launcher based on [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) that runs [Minecraft: Java Edition](https://www.minecraft.net/) on Android devices.
-- Zalith Launcher aims to enhance user experience by redesigning the app interface, adding more practical features, and lowering the barrier to entry, making it easier for more people to enjoy Minecraft.
+- Nexus is a Minecraft launcher based on [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) that runs [Minecraft: Java Edition](https://www.minecraft.net/) on Android devices.
+- Nexus aims to enhance user experience by redesigning the app interface, adding more practical features, and lowering the barrier to entry, making it easier for more people to enjoy Minecraft.
 
 > [!WARNING]
-> Attention! This project is only a **community remake**, just like PojavLauncher is developed based on [Boardwalk](https://github.com/zhuowei/Boardwalk).  
-> We are planning to build the official website [zalithlauncher.cn](https://zalithlauncher.cn). Please note, our website domain ends with `.cn`, not `.com`! **That is not our site!** We do not participate in, accept, or trust that site! Please be careful to distinguish it and protect your personal privacy!
+> Attention! This project is only a **community remake**, just like PojavLauncher is developed based on [Boardwalk](https://github.com/zhuowei/Boardwalk). 
 
 <h2 align="center">New Features</h2>
 
@@ -26,7 +24,7 @@
 - [x] Add more renderers, with support for renderer plugins!
 - [x] Download Mods, ModPacks, resource packs, saves, and shader packs directly within the launcher!
 - [x] Customizable virtual mouse icon and launcher background image.
-- [x] Light and dark themes available.
+- [x] New colors for the user interface.
 - [x] And more features!
 
 <h2 align="center">Screenshots</h2>
@@ -37,7 +35,7 @@
 
 <h2 align="center">License</h2>
 
-- Zalith Launcher is open source under the GPL v3 license.
+- Nexus is open source under the GPL v3 license.
 
 <h2 align="center">Special Thanks</h2>
 
@@ -57,7 +55,7 @@ This project uses several useful code libraries. Special thanks to them!
 >- [libepoxy](https://github.com/anholt/libepoxy): [MIT License](https://github.com/anholt/libepoxy/blob/master/COPYING).
 >- [virglrenderer](https://github.com/PojavLauncherTeam/virglrenderer): [MIT License](https://gitlab.freedesktop.org/virgl/virglrenderer/-/blob/master/COPYING).
 
-#### Additional Code Libraries Used by Zalith Launcher
+#### Additional Code Libraries Used by Nexus
 
 >- [HMCL](https://github.com/HMCL-dev/HMCL) (uses some source code): [GPL-3.0 License](https://github.com/HMCL-dev/HMCL/blob/main/LICENSE)
 >- [CommonMark](https://github.com/thephpleague/commonmark) (for rendering Markdown text): [BSD-3-Clause License](https://github.com/thephpleague/commonmark/blob/2.5/LICENSE)
