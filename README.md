@@ -29,16 +29,15 @@
 
 <h2 align="center">Screenshots</h2>
 
-![Screenshot1](/.ZalithLauncher/src/main/res/drawable/Launcher_Screenshot_light.jpg)
-![Screenshot2](/.ZalithLauncher/src/main/res/drawable/Launcher_screenshot_dark.jpg)
-![Screenshot3](/.ZalithLauncher/src/main/res/drawable/Launcher_preview.jpg)
+![Screenshot1](https://raw.githubusercontent.com/ZalithLauncher/ZalithLauncher/c24cc6fbccb829642e7d3287d9d22b4200e4f37c/ZalithLauncher/src/main/res/drawable/Launcher_Screenshot_light.jpg)
+![Screenshot2](https://raw.githubusercontent.com/ZalithLauncher/ZalithLauncher/c24cc6fbccb829642e7d3287d9d22b4200e4f37c/ZalithLauncher/src/main/res/drawable/Launcher_screenshot_dark.jpg)
+![Screenshot3](https://raw.githubusercontent.com/ZalithLauncher/ZalithLauncher/c24cc6fbccb829642e7d3287d9d22b4200e4f37c/ZalithLauncher/src/main/res/drawable/Launcher_preview.jpg)
 
 <h2 align="center">License</h2>
 
 - Nexus is open source under the GPL v3 license.
 
 <h2 align="center">Special Thanks</h2>
-
 This project uses several useful code libraries. Special thanks to them!
 
 #### Code Libraries Used by PojavLauncher
