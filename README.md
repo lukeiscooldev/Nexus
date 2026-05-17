@@ -29,9 +29,9 @@
 
 <h2 align="center">Screenshots</h2>
 
-![Screenshot1](/.github/images/Screenshot_Launcher_Light_EN_US.jpg)
-![Screenshot2](/.github/images/Screenshot_Launcher_Dark_EN_US.jpg)
-![Screenshot3](/.github/images/Screenshot_Game_EN_US.jpg)
+![Screenshot1](/.ZalithLauncher/src/main/res/drawable/Launcher_Screenshot_light.jpg)
+![Screenshot2](/.ZalithLauncher/src/main/res/drawable/Launcher_screenshot_dark.jpg)
+![Screenshot3](/.ZalithLauncher/src/main/res/drawable/Launcher_preview.jpg)
 
 <h2 align="center">License</h2>
 
