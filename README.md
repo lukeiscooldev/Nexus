@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="256" src="ZalithLauncher/src/main/res/drawable/app_name_title.png"></img>
+    <img width="256" src="https://raw.githubusercontent.com/ZalithLauncher/ZalithLauncher/9d978b702002f6eb932f32ce74b861ba63a9ee2e/ZalithLauncher/src/main/res/drawable/minecraft_title%20(6).png"></img>
 </div>
 
 <div align="center">
