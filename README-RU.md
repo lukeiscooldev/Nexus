@@ -1,7 +1,9 @@
 <div align="center">
     <img width="800" src="https://raw.githubusercontent.com/ZalithLauncher/ZalithLauncher/9d978b702002f6eb932f32ce74b861ba63a9ee2e/ZalithLauncher/src/main/res/drawable/minecraft_title%20(6).png"></img>
 </div>
+
 - Nexus — это лаунчер Minecraft, основанный на <a href="https://github.com/PojavLauncherTeam/PojavLauncher">PojavLauncher</a>, который запускает Minecraft: Java Edition на устройствах Android.
+
 - Nexus стремится улучшить пользовательский опыт, переработав интерфейс приложения, добавив больше практичных функций и снизив порог входа, делая Minecraft доступным для большего числа игроков.
 
 > [!Warning]
